@@ -1,7 +1,9 @@
 # Capturing-Tie-Strength-Data
 
-The data in this repository supports the work
+This repository provides replication data for the following work:
 
-- Sarker, A., Seby, J. B., Benson, A. R., & Jadbabaie, A. (2024). Capturing Tie Strength with Algebraic Topology.
+> Sarker, A., Seby, J. B., Benson, A. R., & Jadbabaie, A. (2026). **Algebraic topological characterizations of tie strength in higher-order social networks.**
+>
+> *A related preprint is available on [arXiv](https://arxiv.org/abs/2108.02091).*
 
-A related preprint can be found [here](https://arxiv.org/abs/2108.02091), which includes citations for the original source of each dataset.
+The associated processing code can be found [here](https://github.com/arnabsarker/Algebraic-Tie-Strength-Experiments).
