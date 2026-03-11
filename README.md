@@ -1,4 +1,4 @@
-# Capturing-Tie-Strength-Data
+# Algebraic-Tie-Strength-Data
 
 This repository provides replication data for the following work:
 
